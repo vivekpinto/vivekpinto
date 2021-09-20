@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, I'm Vivek Pinto 👋
 
-<!--
-**vivekpinto/vivekpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ML Project
+- 🌱 I’m currently learning cloud computing 
+- 👯 I’m looking to collaborate on Postman
+- 🤔 I’m looking for help with DSA
+- 💬 Ask me about Cricket
+- 📫 How to reach me: [vivekpinto](https://www.linkedin.com/in/vivkepinto2001/)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=vivekpinto&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000080">
