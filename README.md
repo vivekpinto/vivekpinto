@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ML Project
 - 🌱 I’m currently learning cloud computing 
 - 👯 I’m looking to collaborate on Postman
-- 🤔 I’m looking for help with DSA
+- 🤔 I’m looking for help with DSA and Linux
 - 💬 Ask me about Cricket
 - 📫 How to reach me: [vivekpinto](https://www.linkedin.com/in/vivkepinto2001/)
 - 😄 Pronouns: He/him
