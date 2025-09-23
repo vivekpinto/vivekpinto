@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek Pinto</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">A passionate Quality Assurance Engineer from India</h3>
 
 
 
-- 🔭 I’m currently working on ML Project
-- 🌱 I’m currently learning cloud computing 
+- 🔭 I’m currently working on Accessibility Projects
+- 🌱 I’m currently learning Python and Docker 
 - 🤔 I’m looking for help with DSA and Linux
 - 💬 Ask me about Cricket
 - 📫 How to reach me: **vivekpinto5@gmail.com**
